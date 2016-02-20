@@ -1,3 +1,4 @@
 ## Treehouse
 
-This Repo is for all my course files completed through teamtreehouse.com
+This Repo will be for all my course files completed through teamtreehouse.com
+
